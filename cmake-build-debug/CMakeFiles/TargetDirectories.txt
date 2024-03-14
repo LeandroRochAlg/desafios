@@ -1,0 +1,3 @@
+/cygdrive/c/Users/rocha/Documents/Programação/Desafios/desafios/cmake-build-debug/CMakeFiles/desafios.dir
+/cygdrive/c/Users/rocha/Documents/Programação/Desafios/desafios/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/rocha/Documents/Programação/Desafios/desafios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
