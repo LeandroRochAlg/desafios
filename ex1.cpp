@@ -9,4 +9,7 @@ int main(){
     }
 
     std::cout << "Soma: " << SOMA << std::endl;
+    // Resultado: 91
+
+    return 0;
 }
